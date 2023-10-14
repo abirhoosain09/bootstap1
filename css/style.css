@@ -1,0 +1,233 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Poppins:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;1,600&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,400&family=Ubuntu:wght@400;500;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    color: #413960;
+}
+.hero_section{
+    background-color: #f0fff0;
+    min-height: 100vh;
+}
+.navbar-light .navbar-nav .nav-item .nav-link{
+    color: #000;
+    font-size: 24px;
+    line-height: 24px;
+    padding: 10px;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #57558d;
+}
+.btnc{
+    background: #21B573;
+    font-size: 20px; 
+    border-radius: 25px;
+    padding:5px 20px;
+    color: white;
+}
+.btnc:hover{
+     background-color: #21B573;
+      color: #57558d;  
+} 
+.hero-content{
+
+}
+.content_element{
+    width: 100%;
+    margin: auto;
+}
+.content_element h6{
+    color: #FD511A;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+}
+.content_element h1{
+    color: #000;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 100px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-bottom: 30px;
+}
+.content_element p{
+    color: #6C6B6B;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 40px;
+    padding-bottom: 30px;
+}
+.content_element .btnc{
+    background: #21B573;
+    font-size: 24px; 
+    border-radius: 25px;
+    color: #f0fff0;
+    padding:10px 20px;
+}
+.content_element .btnc:hover{
+    background: #21B573; 
+    color: #57558d;
+}
+.content_element span{
+   color: #21B573;
+
+}
+/* header_section  */
+/* hero_section */
+.herooo_section{
+    
+}
+.topic{
+    text-align: center;
+    box-sizing: border-box;
+    padding: 50px;
+    background-color: #F8FFFB;
+}
+.topic:hover{
+    background-color: #fff;
+    width: 100%;
+    box-shadow: 0px 20px 40px 0px #0000001A;
+    border-radius: 10px;
+}
+.topic img{
+    width: 66px;
+    height: 95px;
+    padding-bottom: 20px;
+}
+.topic h3{
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    /* padding: 15px 0;    */
+}
+.topic p{
+    font-size: 16px;
+    padding: 10px,0;
+}
+   
+
+/* hero_section */
+
+/* Online Courses */
+.online_course h3{
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    padding: 40px 0;
+}
+
+/* modern_psy */
+.modern_psy{
+    /* background-color: #21B573; */
+    padding: 25px 20px;
+    border-radius: 5px solid blue;
+    box-shadow: 0px 10px 40px 0px #0000001A;
+}
+.modern_psy:hover{
+    /* box-shadow: 0px 10px 40px 0px #0000001A; */
+
+
+}
+.modern_psy img{
+   border-radius: 5px solid #21B573;
+}
+.modern_psy img:hover{
+    border-radius: 5px solid #21B573;
+ }
+.modern_psy h2{
+    padding-top: 20px;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+}
+.modern_psy h4{
+    padding: 10px 0;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.btnn{
+    background: #21B573;
+    font-size: 20px; 
+    border-radius: 25px;
+    padding:5px 20px;
+    color: white;
+
+}
+.btnn:hover{
+    background-color: #21B573;
+    color: #000000;
+}
+.modern_psy ul{
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    margin: 0;
+}
+.modern_psy ul li{
+    list-style-type: none;
+    padding: 25px 0;
+}
+.modern_psy ul li i{
+    padding-right: 20px;
+}
+
+.portfolio_1{
+  width: 700px;
+  margin: auto;
+
+}
+.portfolio_1 img{
+  width: 140px;
+}
+.portfolio_1 p{
+    width: 600px;
+    height: 140px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+/* fotter_end */
+ footer{
+    background: #282531;
+
+ }
+.footter_strt{
+  
+}
+.footter_strt p{
+    color:#FFFFFF;
+    font-size: 16px;
+    width: 90%;
+    line-height: 35px;
+}
+.fotter_end ul li{
+    list-style: none;
+}
+.fotter_end ul li a{
+    text-decoration: none;
+    color:#FFFFFF;
+    font-size: 16px;
+}
+.course_11{
+    font-weight: bold;
+}
+
+.endd{
+    font-size: 18px;
+    line-height: 30px;
+    color: #CDCDCD;
+
+}
+
+
+
+
